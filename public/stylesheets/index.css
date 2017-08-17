@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'starwars';
+  src: url('/fonts/StarJedi.ttf') format('truetype');
+}
+
+.ff1 {
+  font-family: 'starwars', sans-serif;
+}
+
+.body {
+  background: black;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: yellow;
+}
+
+.loading {
+  color: white;
+}
+
+#mynetwork {
+  background: white;
+  height: 400px;
+  margin: 200px auto;
+  width: 600px;
+}
